@@ -1,6 +1,10 @@
 # DigitalPulse Social Media Analyzer
 
 An event-driven system for social media opinion analysis that groups, classifies, and generates conclusions about topics.
+![Ekran görüntüsü 2025-04-27 005849](https://github.com/user-attachments/assets/ee6af214-4d1e-4dc2-a6ea-39ef30efc529)
+![Ekran görüntüsü 2025-04-27 005918](https://github.com/user-attachments/assets/ee8fa60f-7feb-481f-958e-b0d4b4f1b346)
+
+
 
 ## Overview
 
