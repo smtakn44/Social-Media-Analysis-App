@@ -27,18 +27,26 @@ git clone https://github.com/yourusername/digitalpulse-social-media-analyzer.git
 cd digitalpulse-social-media-analyzer
 ```
 
-2. Create a virtual environment and activate it:
+2. If you're setting up a new repository:
+```bash
+git init
+git remote remove origin  # In case there's an existing remote
+git remote add origin https://github.com/smtakn44/Social-Media-Analysis-App.git
+git branch -M main
+```
+
+3. Create a virtual environment and activate it:
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-3. Install required dependencies:
+4. Install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-4. Run the application:
+5. Run the application:
 ```bash
 streamlit run main.py
 ```
